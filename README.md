@@ -1,281 +1,113 @@
-<!-- =====================================================================
-     SRIKAR SRIRAMOJU — GitHub Profile README
-     Theme: Deep Space / Cyberpunk Terminal
-     ===================================================================== -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:0d1b2a,70:0f3460,100:16213e&height=260&section=header&text=SRIKAR%20SRIRAMOJU&fontSize=52&fontColor=00ffcc&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Dev%20%7C%20Systems%20Engineer%20%7C%20Space-Tech%20Builder&descAlignY=60&descColor=a78bfa&fontFamily=monospace" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=17&duration=2600&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&height=45&lines=const+stack+%3D+%5B'MERN'%2C+'Spring+Boot'%2C+'Three.js'%2C+'WebRTC'%5D;%2F%2F+Zero+Trust+Architect+%7C+Orbital+Mechanics+%7C+Real-Time+Systems;git+push+origin+main+%23+another+late+night+shipped;%F0%9F%8F%85+NASA+Space+Apps+Gold+Medalist" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=vercel&logoColor=0a0a0f)](https://github.com/SrikarSriramoju)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srikarsriramoju)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikarsrikar.12321@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=0a0a0f)](https://leetcode.com/srikarsriramoju)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-</div>
-
+# Hi there, I'm Srikar Sriramoju! 👋
+<p align="center">
+  <a href="https://linkedin.com/in/srikarsriramoju" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:srikarsrikar.12321@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  <a href="https://leetcode.com/u/SrikarSriramoju/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge" />
+  </a>
+</p>
 ---
-
-<!-- ░░░░░░░░░░░░░░░░░░░░ ABOUT ░░░░░░░░░░░░░░░░░░░░ -->
-
+### 🌌 Space-Tech Enthusiast | Full-Stack Developer | Systems & Network Engineer
+I am a passionate software engineer and systems architect specializing in secure network infrastructures, real-time communication systems, and interactive 3D space visualizations. I love exploring the intersection of space technology, orbital mechanics, and zero-trust mesh networking.
+🥇 **Gold Medalist** at the **NASA Space Apps Challenge** for pioneering **NeoVision**, a real-time Keplerian orbital visualizer.
+---
+<p align="center">
+  <img src="./space_network_coder.png" width="85%" alt="Srikar Sriramoju - Space Network Coder" />
+</p>
+---
+## 🛠️ Tech Stack & Expertise
 <table>
-<tr>
-<td width="52%" valign="top">
-
-```ts
-// ─────────────────────────────────────────
-//  srikar.config.ts  |  runtime: production
-// ─────────────────────────────────────────
-
-const srikar: Developer = {
-  name    : "Srikar Sriramoju",
-  role    : "Full-Stack Developer & Systems Engineer",
-  degree  : "B.Tech CSE @ KITSW '27",
-
-  domains : [
-    "Space-Tech Visualization",
-    "Zero-Trust Networking",
-    "Real-Time Communication",
-    "Scalable Web Systems",
-  ],
-
-  currentlyBuilding: "Next orbital thing 🚀",
-
-  trophies: [
-    "🥇 NASA Space Apps — Gold Medal",
-    "🏆 CodeRush Hackathon — Best Innovation",
-    "🤝 T-Works Hyderabad — CEO Invite",
-    "🎯 National Hackathon Finalist (×multiple)",
-  ],
-};
-```
-
-</td>
-<td width="48%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:10px"/>
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="20%"><strong>Languages</strong></td>
+    <td width="80%">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white" alt="ThreeJS" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend & Infra</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="SpringBoot" />
+      <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" />
+      <img src="https://img.shields.io/badge/Tailscale-5D2D91?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" alt="RaspberryPi" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tools & Cloud</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+    </td>
+  </tr>
 </table>
-
 ---
-
-<!-- ░░░░░░░░░░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-## `// TECH STACK`
-
-```bash
-# Languages
-```
-<img src="https://skillicons.dev/icons?i=java,js,python,c,sql&theme=dark&perline=5" />
-
-```bash
-# Frontend & Visualization
-```
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,threejs&theme=dark&perline=5" />
-
-```bash
-# Backend & APIs
-```
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark&perline=5" />
-
-```bash
-# Databases
-```
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=5" />
-
-```bash
-# Infrastructure & Tools
-```
-<img src="https://skillicons.dev/icons?i=linux,raspberrypi,docker,git,github,firebase,postman,vscode&theme=dark&perline=8" />
-
-<br/>
-
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=00FFCC)
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=a78bfa)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=pink)
-![Zero Trust](https://img.shields.io/badge/Zero--Trust_Arch-0d1b2a?style=for-the-badge&logo=cloudflare&logoColor=00FFCC)
-
-</div>
-
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░ PROJECTS ░░░░░░░░░░░░░░░░░░░░ -->
-
-## `// PROJECTS`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛸 [NeoVision](https://github.com/SrikarSriramoju/NeoVision)
-> *Full-Stack Space Visualization Platform*
-
-```
-Stack: React.js · Node.js · Three.js · MongoDB
-```
-- Real-time **Near-Earth Object (NEO)** tracking via NASA datasets
-- Keplerian orbital mechanics engine for live trajectory computation
-- Interactive **3D solar system** with optimized Three.js rendering
-- 🥇 **Gold Medal — NASA Space Apps Challenge**
-
-</td>
-<td width="50%" valign="top">
-
-### 🗳️ [FRVS](https://github.com/SrikarSriramoju/FRVS)
-> *Feature Request & Voting System*
-
-```
-Stack: Spring Boot · Java · MySQL · REST APIs
-```
-- Scalable product enhancement workflow management
-- Secure auth, feature submission, and role-based access control
-- RESTful API layer for voting, tracking, and request aggregation
-- Modular backend architecture built for scale
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💡 [InnovateFund](https://github.com/SrikarSriramoju/InnovateFund)
-> *Crowdfunding & Investor Networking Platform*
-
-```
-Stack: MERN Stack · Socket.IO · JWT
-```
-- Connects innovators with investors via protected role-based auth
-- Real-time chat and notification system via **Socket.IO**
-- Secure idea management with JWT-protected REST APIs
-- 🏆 **Best Innovation Award — CodeRush Hackathon**
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 SecureVC
-> *Zero-Trust Video Communication Platform*
-
-```
-Stack: WebRTC · Tailscale · Node.js
-```
-- P2P video over **WebRTC** with sub-50ms latency
-- **Tailscale** mesh VPN: only authenticated peers connect
-- Zero public port exposure — fully private signaling
-- Built on zero-trust principles end-to-end
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
+## 🚀 Key Projects
+### 🌌 [NeoVision](https://github.com/SrikarSriramoju/NeoVision)
+* **NASA Space Apps Challenge Gold Medalist** 🥇
+* An interactive 3D solar system visualization engine mapping Near-Earth Objects (NEOs) using real-time NASA open datasets.
+* Powered by **React.js**, **Three.js**, **Node.js**, and **MongoDB** with custom-built orbital mechanics calculations.
+### 🌐 [SecureVC & Private Cloud](https://github.com/SrikarSriramoju)
+* A zero-trust, peer-to-peer audio/video streaming server utilizing **WebRTC** and encrypted **Tailscale mesh networking**.
+* Host-secure, self-configured private cloud with **Raspberry Pi NAS** storage and public-port-bypass via Tailscale Funnel.
+### 💸 [InnovateFund](https://github.com/SrikarSriramoju/InnovateFund)
+* **CodeRush Hackathon Best Innovation Award** 🏆
+* A real-time crowdfunding and investor networking web application.
+* Designed using the **MERN Stack** with persistent **Socket.IO** socket updates for notifications, discussions, and role-based funding access.
+### 🗳️ [FRVS - Feature Request and Voting System](https://github.com/SrikarSriramoju/FRVS)
+* A scalable feedback management platform built with **Spring Boot** and **Java** targeting enterprise enhancement pipelines.
+* Includes micro-optimized **MySQL** schemas for high-speed vote aggregation and JWT role verification.
 ### 🎓 [One Stop Career Guidance](https://github.com/SrikarSriramoju/One_stop_career_guidan)
-> *Career Discovery & Guidance Platform*
-
-```
-Stack: Full-Stack Web
-```
-- Centralized resource hub for student career pathways
-- Structured guidance for placements, higher education & more
-
-</td>
-<td width="50%" valign="top">
-
-### 🗓️ [Event Management KITS](https://github.com/SrikarSriramoju/Event-Management-KITS)
-> *College Event Management System*
-
-```
-Stack: Full-Stack Web
-```
-- End-to-end event lifecycle management for KITSW
-- Registration, scheduling, and admin control panel
-
-</td>
-</tr>
-</table>
-
+* A counseling platform mapping career paths and recommendations for students and fresh grads.
 ---
-
-<!-- ░░░░░░░░░░░░░░░░░░░░ GITHUB STATS ░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-## `$ git log --oneline --all`
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SrikarSriramoju&theme=github-dark-blue&hide_border=true&ring=00ffcc&fire=a78bfa&currStreakLabel=00ffcc&sideLabels=a78bfa&dates=888888" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=SrikarSriramoju&show_icons=true&theme=github_dark&hide_border=true&title_color=00ffcc&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrikarSriramoju&layout=compact&theme=github_dark&hide_border=true&title_color=00ffcc&text_color=c9d1d9&bg_color=0d1117" width="40%" />
-
-</div>
-
+## 🏆 Achievements
+* **Gold Medal** – NASA Space Apps Challenge (Spatial Viz & Orbital Mapping)
+* **Best Innovation Award** – CodeRush Hackathon (FinTech & Investor Networking)
+* **National Hackathon Finalist** – Represented teams across multiple nationwide hackathons
+* **T-Works Exploration Invitation** – Specially invited by the CEO of T-Works Hyderabad to explore high-tech manufacturing pipelines.
 ---
-
-<!-- ░░░░░░░░░░░░░░░░░░░░ ACHIEVEMENTS ░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-## `// ACHIEVEMENTS`
-
-| 🏅 Award | 🔬 What I Built | 📍 Recognition |
-|----------|----------------|----------------|
-| 🥇 Gold Medal | NeoVision — NASA Open Datasets + Orbital Mechanics | NASA Space Apps Challenge |
-| 🏆 Best Innovation | InnovateFund — Crowdfunding + Real-Time Platform | CodeRush Hackathon |
-| 🎯 Finalist | Scalable Prototypes under hackathon constraints | National-Level Hackathons |
-| 🤝 Special Invite | Advanced Manufacturing & Innovation Exploration | T-Works Hyderabad (CEO) |
-
-</div>
-
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SrikarSriramoju&show_icons=true&theme=tokyonight&count_private=true" alt="Srikar's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrikarSriramoju&layout=compact&theme=tokyonight&hide=c,html,css" alt="Srikar's Top Languages" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrikarSriramoju&theme=tokyonight" alt="Srikar's Streak Stats" width="97%" />
+</p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/SrikarSriramoju/count.svg" alt="Visitor Counter" />
+</p>
 ---
-
-<!-- ░░░░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-```
-> console.log("I don't just write code — I build systems that orbit reality.");
-```
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/srikarsriramoju)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srikarsrikar.12321@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=00ffcc)](https://github.com/SrikarSriramoju)
-
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=SrikarSriramoju&color=00ffcc&style=flat-square&label=PROFILE+VIEWS)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:0d1b2a,70:0f3460,100:16213e&height=120&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  🪐 <em>"Configuring network meshes across celestial realms..."</em>
+</p>
