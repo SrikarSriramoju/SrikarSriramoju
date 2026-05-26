@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/srikarsriramoju" target="_blank">
+  <a href="https://www.linkedin.com/in/srikar-sreeramoju-2974b32a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:srikarsrikar.12321@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail Badge" />
   </a>
-  <a href="https://leetcode.com/u/SrikarSriramoju/" target="_blank">
+  <a href="https://leetcode.com/u/bZy9haXDgx/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&amp;logo=LeetCode&amp;logoColor=black" alt="LeetCode Badge" />
   </a>
 </p>
